@@ -50,9 +50,9 @@ function App() {
   return (
     <>
       <main>
-        <div>
+        {/* <div>
           <img src="./images/icon-moon.svg" alt="Moon Icon" />
-        </div>
+        </div> */}
         <h1>Advice Generator APP</h1>
         <div className="card">
           <h3>
