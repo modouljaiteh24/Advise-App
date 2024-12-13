@@ -92,8 +92,9 @@ function App() {
           </p>
         </div>
         <p className="copyright">
-          &copy; 2024 JCC - Part 2 of the Junior Developer Program. All rights
-          reserved.
+          {/* &copy; 2024 JCC - Part 2 of the Junior Developer Program. All rights
+          reserved. */}
+          &copy; 2024. All rights reserved.
         </p>
       </footer>
     </>
